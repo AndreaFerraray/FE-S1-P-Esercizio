@@ -149,4 +149,8 @@ i {
 
 .footer p {
   padding-bottom: 0;
+  text-decoration: none;
+}
+.underline {
+  text-decoration: underline;
 }

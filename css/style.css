@@ -98,6 +98,7 @@ h5 {
   color: white;
   padding-top: 10px;
   font-family: "Open Sans", sans-serif;
+  font-size: small;
 }
 .iltuopc {
   width: 100%;
@@ -115,7 +116,7 @@ h5 {
 footer {
   background-color: #25a2c3;
   width: 100%;
-  min-height: 250px;
+  min-height: 300px;
 }
 h2 {
   color: #ffffff;

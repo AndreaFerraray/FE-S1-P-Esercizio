@@ -127,8 +127,25 @@ h2 {
 i {
   color: #dee1e3;
 }
-a {
+.footer p a {
   font-family: "Open Sans", sans-serif;
   color: #ffffff;
   padding: 10px;
+  font-size: medium;
+  line-height: none;
+}
+.© {
+  text-decoration: underline;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  font-size: small;
+}
+.via {
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  font-size: medium;
+}
+
+.footer p {
+  padding-bottom: 0;
 }

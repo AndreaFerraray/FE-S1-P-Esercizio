@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap");
+
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
@@ -33,7 +35,7 @@ h1 {
   padding: 30px;
   color: #25a2c3;
 }
-.first-container p {
+p {
   font-family: "Open Sans", sans-serif;
   line-height: 1.65;
   font-size: 1.2rem;
@@ -43,7 +45,7 @@ h1 {
 }
 
 button {
-  background-color: #da4f33;
+  background-color: #ff3d12;
   color: white;
   border: none;
   width: 160px;
@@ -55,5 +57,44 @@ button {
 h3 {
   font-family: "Montserrat";
   color: #25a2c3;
-  padding: top 65px;
+
+  font-size: larger;
+}
+section {
+  padding-top: 50px;
+}
+section p {
+  padding-top: 20px;
+}
+.notebook {
+  width: 350px;
+  border-radius: 50%;
+}
+
+.redbox {
+  background-color: #ee2500;
+  width: 100%;
+  min-height: 300px;
+  text-align: center;
+}
+h2 {
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-size: xx-large;
+  padding-top: 65px;
+}
+div p {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  color: white;
+}
+h4 {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: x-large;
+}
+h5 {
+  color: white;
+  padding-top: 10px;
+  font-family: "Open Sans", sans-serif;
 }
